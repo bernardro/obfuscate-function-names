@@ -1,0 +1,6 @@
+hndlContextMenu
+setContentEditableTo
+hndlCryptInput
+hndlToggleLearningMode
+doNodeDeletion
+doInsertChildNode

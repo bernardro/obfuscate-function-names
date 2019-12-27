@@ -1,0 +1,22 @@
+[
+  {
+    "isnow": "KS",
+    "theformer": "DBL_CLICK_DETECTION_DELAY_MILLIS"
+  },
+  {
+    "isnow": "PVD",
+    "theformer": "prepareSiblingsToBeLeftBehind"
+  },
+  {
+    "isnow": "CND",
+    "theformer": "PRE_SHOW_PASTING_MODAL_DELAY"
+  },
+  {
+    "isnow": "MB",
+    "theformer": "fallbackCopyTextToClipboard"
+  },
+  {
+    "isnow": "U3L",
+    "theformer": "prepareChildsForIncomingNav"
+  }
+]
